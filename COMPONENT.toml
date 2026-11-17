@@ -3,7 +3,7 @@ name = "SigmaOS-arch-mirror"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-mirror component"
+description = "SigmaOS SigmaOS-arch-mirror component"
 upstream = []
 
 [contract]
